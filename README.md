@@ -1,6 +1,3 @@
-# Breast_cancer_prediction
-Machine learning model to predict breast cancer diagnosis using clinical data.
-
 # Breast Cancer Prediction
 
 This project uses machine learning to predict whether a tumor is benign or malignant based on medical features.
